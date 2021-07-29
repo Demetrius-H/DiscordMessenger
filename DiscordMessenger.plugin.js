@@ -56,7 +56,6 @@ module.exports = class DiscordMessenger {
 	}
 
 	stop() {
-		console.log("Test");
 		document.getElementById('messenger').remove();
 	}
 }
