@@ -3,8 +3,10 @@
  * @author DemetriusH
  * @version 0.1.0
  * @description Sets the Discord window into a compact, "Messenger" type layout that can be moved around with ease.
+ * @website https://sites.google.com/view/discordmessenger/home
  * @source https://github.com/Demetrius-H/DiscordMessenger
  * @invite https://discord.gg/qAZPZgAPb5
+ * @donate https://paypal.me/DemetriusHiscox
  */
 
 module.exports = class DiscordMessenger {
